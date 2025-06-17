@@ -1,6 +1,6 @@
 # Emoji-Predictor-from-the-Text-Input
 Taking the text as input, corresponding emoji is predicted
-Based on your uploaded files (`Emotion_Detection_1.ipynb` and `New_Emoji_Predictor.py`), here's a recommended `README.md` for your GitHub repository:
+
 
 ---
 
