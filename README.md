@@ -14,7 +14,7 @@ This project is a **Streamlit-based web application** that predicts the **emotio
 
 Enter a sentence like:
 
-> "I just got a new puppy!"
+> "Life feels good right now!"
 > ...and the app will return:
 > **Emotion:** joy
 > **Emoticon:** 😊
